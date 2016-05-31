@@ -29,7 +29,7 @@
     "CBC",
     "Base64"
   ],
-  "main": "index.js",
+  "main": "crypto-js.js",
   "dependencies": {},
   "ignore": []
 }
